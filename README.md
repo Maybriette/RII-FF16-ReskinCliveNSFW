@@ -1,4 +1,4 @@
-# RII-FF16-ReskinClivesAppearanceNSFW
+# RII-FF16-ReskinCliveNSFW
 
 Mod for Final Fantasy XVI on PC using Reloaded II
 
